@@ -38,7 +38,7 @@ Generate Python code to import necessary libraries for customer segmentation and
 ### 4. Data Preprocessing & Feature Engineering
 
 4.1. Create a feature indicating the number of days the customers have been registered in the firm's database.  
-4.2. Create a feature ("Customer_For") of the number of days the customers started to shop in the store relative to the last recorded date
+4.2. Create a feature ("Customer_For") of the number of days the customers started to shop in the store relative to the last recorded date.
 4.3. Explore the unique values in the categorical features to get a clear idea of the data.  
 4.4. Extract the age of a customer by the birth year.  
 4.5. Create a feature indicating the total amount spent by the customer in various categories over the span of two years.  
