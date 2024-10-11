@@ -24,6 +24,7 @@ Generate Python code to import necessary libraries for customer segmentation and
 ### 2. Loading the Dataset
 
 2.1. Write Python code to load a dataset from a CSV file named "marketing_campaign.csv" with tab-separated values. Print the length of datapoints and display the first few rows of the dataset.
+
 2.2. Write Python code to display information about the features of a dataset stored in the dataframe.
 
 ### 3. Data Cleaning
